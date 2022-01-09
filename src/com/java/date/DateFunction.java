@@ -9,7 +9,7 @@ public class DateFunction {
 
 	public static void main(String[] args) throws Exception {
 		// TODO Auto-generated method stub
-		OffsetDateTime offdatetime=OffsetDateTime.now();
+		OffsetDateTime offdatetime123=OffsetDateTime.now();
 		System.out.println("OffsetDate is : " + offdatetime);
 		Date today=new Date();
 		
